@@ -179,7 +179,7 @@ a:hover {
     content: '';
     position: absolute;
     height: 3px;
-    background-color: #0078ff;
+    background-color: #FFFFFF;
     width: 100px;
     bottom: -12px;
 }
@@ -1046,6 +1046,7 @@ a:hover {
 
 .contact-mf {
     margin-top: 4rem;
+    background: #00000059;
 }
 
 @media (min-width: 767px) {
